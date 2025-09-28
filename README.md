@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PulsePress — Next.js News Platform (PWA-Ready)
 
 A modern, responsive, PWA-ready news platform built with Next.js App Router, TailwindCSS, and interactive dashboards. It includes:
@@ -87,3 +88,7 @@ You can hook APIs to these components:
 - Some features use mock data and client-only interactions for demo purposes.
 - Replace placeholder data with real API calls using React Server Components or client data fetching as needed.
 - Ensure you provide PWA icons for a complete installable experience.
+=======
+# News-Website
+Daily News update
+>>>>>>> 1d4d676af94427df9bc1affddf19be7c3fdfb392
